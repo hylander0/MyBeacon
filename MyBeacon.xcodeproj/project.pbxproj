@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F49DD6118A30BEE00230F82 /* MyBeacon120@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F49DD6018A30BEE00230F82 /* MyBeacon120@2x.png */; };
 		6F74589B18A18763004041A2 /* JEHRegionInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F74589A18A18763004041A2 /* JEHRegionInfo.m */; };
 		6F76061318A1306100DA73D2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F76061218A1306100DA73D2 /* Foundation.framework */; };
 		6F76061518A1306100DA73D2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F76061418A1306100DA73D2 /* CoreGraphics.framework */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6F49DD6018A30BEE00230F82 /* MyBeacon120@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MyBeacon120@2x.png"; path = "../../../../Desktop/MyBeacon120@2x.png"; sourceTree = "<group>"; };
 		6F74589918A18763004041A2 /* JEHRegionInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JEHRegionInfo.h; sourceTree = "<group>"; };
 		6F74589A18A18763004041A2 /* JEHRegionInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JEHRegionInfo.m; sourceTree = "<group>"; };
 		6F76060F18A1306100DA73D2 /* MyBeacon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyBeacon.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -131,6 +133,7 @@
 		6F76061918A1306100DA73D2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6F49DD6018A30BEE00230F82 /* MyBeacon120@2x.png */,
 				6F76061A18A1306100DA73D2 /* MyBeacon-Info.plist */,
 				6F76061B18A1306100DA73D2 /* InfoPlist.strings */,
 				6F76061E18A1306100DA73D2 /* main.m */,
@@ -244,6 +247,7 @@
 				6F76062B18A1306100DA73D2 /* Images.xcassets in Resources */,
 				6F76061D18A1306100DA73D2 /* InfoPlist.strings in Resources */,
 				6F76062618A1306100DA73D2 /* Main.storyboard in Resources */,
+				6F49DD6118A30BEE00230F82 /* MyBeacon120@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
